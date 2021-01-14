@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Alex and I am a computer technician! :computer::heart_eyes:  
+I'm passionate about programming, especially the Python language! :blue_heart::snake:
