@@ -11,6 +11,9 @@ I'm passionate about **programming**, especially the **Python language**! :blue_
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='python' width='60'></img>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg' alt='flask' width='60'></img>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' alt='mysql' width='60'></img>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' alt='github' width='60'></img>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' alt='git' width='60'></img>
+
 ***
 
 
